@@ -140,7 +140,10 @@ img{
     }  
     .cabecalho__menu{
         justify-content: center;
-        margin: 10%;
+        
+    }
+    .cabecalho__menu__link{
+        margin: 5%;
     }
     
     .apresentacao{
