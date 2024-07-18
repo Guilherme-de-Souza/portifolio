@@ -136,10 +136,11 @@ img{
     
     .cabecalho{
         padding: 6%;
-        margin: 1%;
+       
     }  
     .cabecalho__menu{
         justify-content: center;
+        margin: 1%;
     }
     
     .apresentacao{
