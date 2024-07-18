@@ -132,7 +132,7 @@ img{
     font-weight: 400;
 }
 
-@media (max-width: 1000px){
+@media (max-width: 800px){
     .cabecalho{
         padding: 6%;
     }  
