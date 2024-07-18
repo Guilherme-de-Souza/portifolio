@@ -21,7 +21,7 @@ body{
     color: var(--cor-secundaria);
 }
 .cabecalho{
-    padding: 2% 0  1% 10%;
+    padding: 2% 0  1% 20%;
 }
 
 .cabecalho__menu{
@@ -136,7 +136,7 @@ img{
     
     .cabecalho{
         padding: 6%;
-        margin: 0 5%;
+        
     }  
     .cabecalho__menu{
         justify-content: center;
