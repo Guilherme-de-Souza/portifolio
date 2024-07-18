@@ -133,6 +133,10 @@ img{
 }
 
 @media (max-width: 800px){
+    *{
+        margin: 1%;
+     
+    }
     .cabecalho{
         padding: 6%;
     }  
